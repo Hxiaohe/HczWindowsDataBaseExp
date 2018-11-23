@@ -1,0 +1,10 @@
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.csprojAssemblyReference.cache
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.Form1.resources
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.Properties.Resources.resources
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.csproj.GenerateResource.cache
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.csproj.CoreCompileInputs.cache
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\bin\Debug\HczWindowsDataBaseExp.exe.config
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\bin\Debug\HczWindowsDataBaseExp.exe
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\bin\Debug\HczWindowsDataBaseExp.pdb
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.exe
+E:\Administrator\Documents\xiaoheProjects\VSProjects\HczWindowsDataBaseExp\HczWindowsDataBaseExp\obj\Debug\HczWindowsDataBaseExp.pdb
